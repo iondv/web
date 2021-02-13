@@ -1,0 +1,43 @@
+{
+  "name": "@iondv/web",
+  "license": "Apache License 2.0",
+  "engines": {
+    "node": ">=13"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/iondv/framework/issues"
+  },
+  "private": true,
+  "repository": {
+    "url": "https://github.com/iondv/web.git",
+    "type": "git"
+  },
+  "homepage": "https://iondv.com",
+  "version": "2.0.0",
+  "dependencies": {
+    "@iondv/auth-contracts": "iondv/auth-contracts#semver:^2.0.0",
+    "@iondv/commons": "iondv/commons#semver:^2.0.0",
+    "@iondv/commons-contracts": "iondv/commons-contracts#semver:^2.0.1",
+    "@iondv/core": "iondv/core#semver:^2.0.3",
+    "@iondv/i18n": "iondv/i18n#semver:^0.0.1",
+    "@iondv/meta-model-contracts": "iondv/meta-model-contracts#semver:^2.0.3",
+    "body-parser": "^1.19.0",
+    "clone": "^2.1.2",
+    "connect-flash": "^0.1.1",
+    "cookie": "^0.4.1",
+    "crypto": "^1.0.1",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "extend": "^3.0.2",
+    "file-stream-rotator": "^0.5.7",
+    "locale": "^0.1.0",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "oauth2-server": "^3.1.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
