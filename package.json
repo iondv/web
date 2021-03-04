@@ -16,7 +16,7 @@
     "type": "git"
   },
   "homepage": "https://iondv.com",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "dependencies": {
     "@iondv/auth-contracts": "iondv/auth-contracts#semver:^2.0.0",
     "@iondv/commons": "iondv/commons#semver:^2.0.0",
